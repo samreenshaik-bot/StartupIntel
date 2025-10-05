@@ -7,12 +7,12 @@ A smart, automated agent designed to help startups and SaaS companies track comp
 
 #🚀 Features
 
-#Track product launches, feature updates, and marketing campaigns of competitors
-#Monitor news articles, press releases, and social media mentions
-#Automated summarization of key events using NLP
-#Sentiment analysis for understanding market perception
-#Generate daily/weekly CSV reports or dashboards
-#Scalable for Indian startups, SaaS, and tech companies
+**Track product launches, feature updates, and marketing campaigns of competitors
+**Monitor news articles, press releases, and social media mentions
+**Automated summarization of key events using NLP
+**Sentiment analysis for understanding market perception
+**Generate daily/weekly CSV reports or dashboards
+**Scalable for Indian startups, SaaS, and tech companies
 
 //🗂 Dataset Sources
 //Indian startup datasets (Kaggle)
