@@ -7,9 +7,9 @@ A smart, automated agent designed to help startups and SaaS companies track comp
 
 #🚀 Features
 
--Track product launches, feature updates, and marketing campaigns of competitors
-**
--Monitor news articles, press releases, and social media mention
+-Track product launches, feature updates, and marketing campaigns of competitors__
+
+-Monitor news articles, press releases, and social media mention__
 **
 -Automated summarization of key events using NLP
 -Sentiment analysis for understanding market perception
