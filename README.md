@@ -1,3 +1,4 @@
+<img width="1850" height="913" alt="Screenshot (854)" src="https://github.com/user-attachments/assets/d2c23bde-6a75-46c1-b22b-02a2080f4601" />
 # StartupIntel
 
 Competitive Intelligence Tracker for Startups
@@ -55,4 +56,7 @@ Report: Generate CSV / dashboard with actionable insights<br>
 
 
 
-[StartupIntel.html](https://github.com/user-attachments/files/22710574/StartupIntel.html)
+[StartupIntel.html]<br>
+<img width="1842" height="902" alt="Screenshot (853)" src="https://github.com/user-attachments/assets/c58117a3-e2fd-4460-b9e1-81b53e70f153" />
+
+(https://github.com/user-attachments/files/22710574/StartupIntel.html)
