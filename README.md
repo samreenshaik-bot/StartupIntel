@@ -2,19 +2,19 @@
 
 Competitive Intelligence Tracker for Startups
 
-Description:
+##Description:
 A smart, automated agent designed to help startups and SaaS companies track competitors’ activities. The system monitors competitor websites, press releases, social media campaigns, and news articles, summarizes key changes, and generates actionable insights in a digestible format. Ideal for product managers, marketing teams, and business analysts looking to stay updated on market trends, product launches, and marketing campaigns.
 
-#🚀 Features
+##🚀 Features
 
-**Track product launches, feature updates, and marketing campaigns of competitors
-**Monitor news articles, press releases, and social media mentions
-**Automated summarization of key events using NLP
-**Sentiment analysis for understanding market perception
-**Generate daily/weekly CSV reports or dashboards
-**Scalable for Indian startups, SaaS, and tech companies
+-Track product launches, feature updates, and marketing campaigns of competitors
+-Monitor news articles, press releases, and social media mentions
+-Automated summarization of key events using NLP
+-Sentiment analysis for understanding market perception
+-Generate daily/weekly CSV reports or dashboards
+-Scalable for Indian startups, SaaS, and tech companies
 
-//🗂 Dataset Sources
+##🗂 Dataset Sources
 //Indian startup datasets (Kaggle)
 //SaaS company datasets (HuggingFace)
 //Startup funding news (Kaggle)
