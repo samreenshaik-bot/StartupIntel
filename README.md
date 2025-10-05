@@ -19,32 +19,40 @@ A smart, automated agent designed to help startups and SaaS companies track comp
 
 -Scalable for Indian startups, SaaS, and tech companies
 
-##🗂 Dataset Sources
-//Indian startup datasets (Kaggle)
-//SaaS company datasets (HuggingFace)
-//Startup funding news (Kaggle)
-//Press releases & news headlines ([TechCrunch, HackerNoon, RSS feeds])
 
-//🛠 Tech Stack
-//Backend: Python, BeautifulSoup, Scrapy, Requests
-//NLP: HuggingFace Transformers, OpenAI GPT API, NLTK, SpaCy
-//Data Storage: CSV, SQLite, or MongoDB
-//Visualization / Dashboard: Streamlit, Plotly, Dash
-//Automation: Cron Jobs, GitHub Actions
 
-//📊 Workflow
-//
-//Collect: Gather competitor news, social media posts, and website updates
-//Process: Clean data, categorize events, extract summaries
-//Analyze: Perform sentiment analysis and detect trends
-//Report: Generate CSV / dashboard with actionable insights
+#🛠 Tech Stack
+Backend: Python, BeautifulSoup, Scrapy, Requests<br>
 
-//🔗 Potential Use Cases
-//
-//Product managers tracking competitors’ new features
-//Marketing teams monitoring campaigns and promotions
-//Investors and analysts following startup funding events
-//Business strategists performing market intelligence
+NLP: HuggingFace Transformers, OpenAI GPT API, NLTK, SpaCy<br>
 
-//
+Data Storage: CSV, SQLite, or MongoDB<br>
+
+Visualization / Dashboard: Streamlit, Plotly<br>
+
+Automation: Cron Jobs, GitHub Actions
+
+#📊 Workflow
+
+Collect: Gather competitor news, social media posts, and website updates<br>
+
+Process: Clean data, categorize events, extract summaries<br>
+
+Analyze: Perform sentiment analysis and detect trends<br>
+
+Report: Generate CSV / dashboard with actionable insights<br>
+
+
+#🔗 Potential Use Cases
+
+-Product managers tracking competitors’ new features<br>
+
+-Marketing teams monitoring campaigns and promotions<br>
+
+-Investors and analysts following startup funding events<br>
+
+-Business strategists performing market intelligence<br>
+
+
+
 [StartupIntel.html](https://github.com/user-attachments/files/22710574/StartupIntel.html)
